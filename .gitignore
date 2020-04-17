@@ -1,0 +1,4 @@
+.idea
+/Pipfile.lock
+/.env
+/var/

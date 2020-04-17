@@ -1,0 +1,7 @@
+.env_sample
+.git
+.gitignore
+Pipfile.lock
+**/doc
+README.md
+nginx.sample.conf
